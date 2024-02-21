@@ -1,0 +1,12 @@
+C:\Users\Mi\Desktop\Учеба\Курсач\OrganizingСoncerts_Classes\OrganizingСoncerts_Classes\bin\Debug\net7.0\OrganizingСoncerts_Classes.deps.json
+C:\Users\Mi\Desktop\Учеба\Курсач\OrganizingСoncerts_Classes\OrganizingСoncerts_Classes\bin\Debug\net7.0\OrganizingСoncerts_Classes.dll
+C:\Users\Mi\Desktop\Учеба\Курсач\OrganizingСoncerts_Classes\OrganizingСoncerts_Classes\bin\Debug\net7.0\OrganizingСoncerts_Classes.pdb
+C:\Users\Mi\Desktop\Учеба\Курсач\OrganizingСoncerts_Classes\OrganizingСoncerts_Classes\obj\Debug\net7.0\OrganizingСoncerts_Classes.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\Учеба\Курсач\OrganizingСoncerts_Classes\OrganizingСoncerts_Classes\obj\Debug\net7.0\OrganizingСoncerts_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi\Desktop\Учеба\Курсач\OrganizingСoncerts_Classes\OrganizingСoncerts_Classes\obj\Debug\net7.0\OrganizingСoncerts_Classes.AssemblyInfoInputs.cache
+C:\Users\Mi\Desktop\Учеба\Курсач\OrganizingСoncerts_Classes\OrganizingСoncerts_Classes\obj\Debug\net7.0\OrganizingСoncerts_Classes.AssemblyInfo.cs
+C:\Users\Mi\Desktop\Учеба\Курсач\OrganizingСoncerts_Classes\OrganizingСoncerts_Classes\obj\Debug\net7.0\OrganizingСoncerts_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\Учеба\Курсач\OrganizingСoncerts_Classes\OrganizingСoncerts_Classes\obj\Debug\net7.0\OrganizingСoncerts_Classes.dll
+C:\Users\Mi\Desktop\Учеба\Курсач\OrganizingСoncerts_Classes\OrganizingСoncerts_Classes\obj\Debug\net7.0\refint\OrganizingСoncerts_Classes.dll
+C:\Users\Mi\Desktop\Учеба\Курсач\OrganizingСoncerts_Classes\OrganizingСoncerts_Classes\obj\Debug\net7.0\OrganizingСoncerts_Classes.pdb
+C:\Users\Mi\Desktop\Учеба\Курсач\OrganizingСoncerts_Classes\OrganizingСoncerts_Classes\obj\Debug\net7.0\ref\OrganizingСoncerts_Classes.dll

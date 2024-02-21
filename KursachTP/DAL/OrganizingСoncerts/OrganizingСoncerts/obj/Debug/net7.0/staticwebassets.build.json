@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "cC8WyIp3wGvucncbtwJ7fVzOGViLBynzlreQv0Rylvw=",
+  "Source": "OrganizingСoncertsDal",
+  "BasePath": "_content/OrganizingСoncertsDal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Mi\\Desktop\\Учеба\\4семак\\Курсач\\DAL\\OrganizingСoncerts\\OrganizingСoncerts\\obj\\Debug\\net7.0\\scopedcss\\bundle\\OrganizingСoncertsDal.styles.css",
+      "SourceId": "OrganizingСoncertsDal",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Mi\\Desktop\\Учеба\\4семак\\Курсач\\DAL\\OrganizingСoncerts\\OrganizingСoncerts\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/OrganizingСoncertsDal",
+      "RelativePath": "OrganizingСoncertsDal.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Mi\\Desktop\\Учеба\\4семак\\Курсач\\DAL\\OrganizingСoncerts\\OrganizingСoncerts\\obj\\Debug\\net7.0\\scopedcss\\bundle\\OrganizingСoncertsDal.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Mi\\Desktop\\Учеба\\4семак\\Курсач\\DAL\\OrganizingСoncerts\\OrganizingСoncerts\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\OrganizingСoncertsDal.bundle.scp.css",
+      "SourceId": "OrganizingСoncertsDal",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Mi\\Desktop\\Учеба\\4семак\\Курсач\\DAL\\OrganizingСoncerts\\OrganizingСoncerts\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/OrganizingСoncertsDal",
+      "RelativePath": "OrganizingСoncertsDal.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Mi\\Desktop\\Учеба\\4семак\\Курсач\\DAL\\OrganizingСoncerts\\OrganizingСoncerts\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\OrganizingСoncertsDal.bundle.scp.css"
+    }
+  ]
+}

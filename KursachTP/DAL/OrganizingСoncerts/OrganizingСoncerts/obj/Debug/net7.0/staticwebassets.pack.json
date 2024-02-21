@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mi\\Desktop\\Учеба\\4семак\\Курсач\\DAL\\OrganizingСoncerts\\OrganizingСoncerts\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\OrganizingСoncertsDal.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OrganizingСoncertsDal.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.OrganizingСoncertsDal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.OrganizingСoncertsDal.props",
+      "PackagePath": "build\\OrganizingСoncertsDal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.OrganizingСoncertsDal.props",
+      "PackagePath": "buildMultiTargeting\\OrganizingСoncertsDal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.OrganizingСoncertsDal.props",
+      "PackagePath": "buildTransitive\\OrganizingСoncertsDal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
